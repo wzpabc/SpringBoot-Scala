@@ -13,4 +13,3 @@ run `gradle build` in terminal,please don't use gradle tool for idea, it is no w
 visit `http://localhost:8080/swagger-ui.html#/`
 
 ![api](./imgs/api.png)
-

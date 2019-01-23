@@ -20,3 +20,4 @@ gen### Scala template
 /.cache-main
 /bin/
 /gradle/
+/target/

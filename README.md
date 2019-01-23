@@ -13,3 +13,13 @@ run `gradle build` in terminal,please don't use gradle tool for idea, it is no w
 visit `http://localhost:8080/swagger-ui.html#/`
 
 ![api](./imgs/api.png)
+
+![mvn](./imgs/mvn.png)
+
+`mvn clean`
+
+`mvn package -Dmaven.test.skip=true`
+
+`jar -tvf target/spring-boot-scala-1.0.0.jar`
+
+`java -jar target/spring-boot-scala-1.0.0.jar`
